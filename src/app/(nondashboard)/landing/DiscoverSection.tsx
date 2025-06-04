@@ -1,7 +1,6 @@
 "use client";
 
 import DiscoverCard from "@/components/DiscoverCard";
-import FeatureCard from "@/components/FeatureCard";
 import { motion } from "framer-motion";
 import React from "react";
 
